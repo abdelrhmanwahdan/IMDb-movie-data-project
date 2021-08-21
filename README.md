@@ -1,4 +1,4 @@
-# IMDb-movie-data-project
+# IMDb movie data project
 in this project I investigate ,analyze ,clean and visualize The IMDb movie data.
 
 ## contents
