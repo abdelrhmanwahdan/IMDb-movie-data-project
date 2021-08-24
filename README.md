@@ -1,5 +1,5 @@
 # IMDb movie data project
-![data visualization](images/data-visualization.jpg)
+![data visualization](data-visualization.jpg)
 
 Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Firmbee.com</a> on <a href="https://unsplash.com/s/photos/data-visualiztion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
